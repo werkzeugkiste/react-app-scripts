@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "@werkzeugkiste",
+    "@werkzeugkiste/eslint-config/react",
+    "@werkzeugkiste/eslint-config/node",
+    "@werkzeugkiste/eslint-config/typescript"
+  ]
+}
